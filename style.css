@@ -10,7 +10,7 @@
   --black: #1c2a39;
   --gray: #5c6a79;
   --purple: #4c3db2;
-  --transition: var(var(--transition))
+  --transition: var(--transition)
 }
 
 
@@ -131,7 +131,7 @@ font-weight: bold;
     color: var(--purple);
     font-size: 1rem;
     font-weight: bold;
-    background-color:ntransparent;
+    background-color:transparent;
     transition:all 250ms ease-in-out;
     padding: 5px;
 
