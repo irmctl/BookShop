@@ -181,7 +181,7 @@ font-weight: bold;
 }
 
 .filter li.active::before{
-    content:"" ;
+    content:" " ;
     display: inline-block;
     width: 10px;
     height: 10px;
